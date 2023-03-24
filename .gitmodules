@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "proxirr"]
+	path = proxirr
+	url = https://github.com/cran/proxirr
+	shallow = true
+	registered = true
